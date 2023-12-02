@@ -27,7 +27,7 @@ def requestOrReturnCachedApi(studentID):
             return None
 
         f = open(studentID+".json", "w")
-        tokenOnly = r.text[38:70]
+        tokenOnly = r.text[46:70]
         f.write(tokenOnly)
         f.close()
         return tokenOnly
@@ -80,6 +80,7 @@ def requestLastExamResult(API_TOKEN):
     parsed = r.text[r.text.index("<lv_titel>")+10:r.text.index("</lv_titel>")]+": "+r.text[r.text.index("<uninotenamekurz>")+17:r.text.index("</uninotenamekurz>")]
     return parsed
 
+#API_TOKEN = requestOrReturnCachedApi("ge00gok")
 #print(requestMoney(API_TOKEN))
 #print(requestName(API_TOKEN))
 #print(requestLastExamResult(API_TOKEN))
