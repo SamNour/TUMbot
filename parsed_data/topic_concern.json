@@ -1,0 +1,162 @@
+[
+    {
+        "title": "Questions concerning the application",
+        "cases": [
+            {
+                "link": "mailto:admission@mgt.tum.de",
+                "text": "For Munich please contact admission@mgt.tum.de."
+            },
+            {
+                "link": "mailto:admission_heilbronn@mgt.tum.de",
+                "text": "For Heilbronn please contact admission_heilbronn@mgt.tum.de."
+            },
+            {
+                "link": "mailto:bsmt@cs.tum.de",
+                "text": "For Straubing please contact for the Bachelor program bsmt@cs.tum.de and for the Master program msmt@cs.tum.de."
+            }
+        ]
+    },
+    {
+        "title": "Student counseling for enrolled Bachelor students",
+        "cases": [
+            {
+                "link": "https://www.mgt.tum.de/programs/bachelor-management-technology/munich/for-current-students#c1311",
+                "text": "Bachelor in Management & Technology students in Munich please click here."
+            },
+            {
+                "link": "https://www.mgt.tum.de/programs/bachelor-management-technology/heilbronn/for-current-students#c435",
+                "text": "Bachelor in Management & Technology students in Heilbronn please click here."
+            },
+            {
+                "link": "https://www.mgt.tum.de/programs/bachelor-in-sustainable-management-technology/for-current-students#c542",
+                "text": "Bachelor in Sustainable Management & Technology students in Straubing please click here."
+            }
+        ]
+    },
+    {
+        "title": "Student counseling for enrolled Master students",
+        "cases": [
+            {
+                "link": "https://www.mgt.tum.de/programs/master-in-management-technology/for-current-students#c765",
+                "text": "Master in Management & Technology students please click here."
+            },
+            {
+                "link": "https://www.mgt.tum.de/programs/master-in-management/munich/for-current-students#c774",
+                "text": "Master in Management students in Munich please click here."
+            },
+            {
+                "link": "https://www.mgt.tum.de/programs/master-in-management/heilbronn/for-current-students#c783",
+                "text": "Master in Management students in Heilbronn please click here."
+            },
+            {
+                "link": "https://www.mgt.tum.de/programs/master-in-finance-information-management/for-current-students#c570",
+                "text": "Master in Finance & Information Management students please click here."
+            },
+            {
+                "link": "https://www.mgt.tum.de/programs/master-in-consumer-science/for-current-students#c827",
+                "text": "Master in Consumer Science students please click here."
+            },
+            {
+                "link": "https://www.mgt.tum.de/programs/master-in-sustainable-management-technology/for-current-students#c1812",
+                "text": "Master in Sustainable Management & Technology students please click here."
+            }
+        ]
+    },
+    {
+        "title": "Questions concerning certificates, credit transfers, the transcript of records, project studies or final thesis (for enrolled students)",
+        "cases": [
+            {
+                "link": "mailto:grademanagement@mgt.tum.de",
+                "text": "Students in Munich please contact: grademanagement@mgt.tum.de"
+            },
+            {
+                "link": "mailto:studentcounseling_heilbronn@mgt.tum.de",
+                "text": "Students in Heilbronn please contact: studentcounseling_heilbronn@mgt.tum.de"
+            }
+        ]
+    },
+    {
+        "title": "Enquiries about the course schedules",
+        "cases": [
+            {
+                "link": "mailto:lv-management@mgt.tum.de",
+                "text": "Please contact lv-management@mgt.tum.de."
+            }
+        ]
+    },
+    {
+        "title": "Problems with registration for exams and TUMonline",
+        "cases": [
+            {
+                "link": "mailto:examregistration@mgt.tum.de",
+                "text": "Please contact examregistration@mgt.tum.de."
+            }
+        ]
+    },
+    {
+        "title": "Applications to the examination board",
+        "cases": [
+            {
+                "link": "mailto:examinationboard@mgt.tum.de",
+                "text": "Please contact examinationboard@mgt.tum.de."
+            }
+        ]
+    },
+    {
+        "title": "Going abroad (for enrolled TUM School of Management students)",
+        "cases": [
+            {
+                "link": "mailto:outgoing@mgt.tum.de",
+                "text": "If you want to get information about the possibilities to go abroad or you are an outgoing TUM SoM exchange student and have an inquiry or you have questions concerning a credit transfer and recognition of international modules please contact outgoing@mgt.tum.de or click here."
+            }
+        ]
+    },
+    {
+        "title": "Enquiries of incoming exchange students",
+        "cases": [
+            {
+                "link": "mailto:incoming@mgt.tum.de",
+                "text": "Please contact incoming@mgt.tum.de or click here."
+            }
+        ]
+    },
+    {
+        "title": "First contact for international partners or enquiries",
+        "cases": [
+            {
+                "link": "mailto:abroad@mgt.tum.de",
+                "text": "Please contact abroad@mgt.tum.de."
+            }
+        ]
+    },
+    {
+        "title": "Specialization in Engineering/Natural Sciences",
+        "cases": [
+            {
+                "link": "https://www.mgt.tum.de/programs/bachelor-management-technology/munich/for-current-students#c1311",
+                "text": "Bachelor in Management & Technology students in Munich please click here."
+            },
+            {
+                "link": "https://www.mgt.tum.de/programs/bachelor-management-technology/heilbronn/for-current-students#c435",
+                "text": "Bachelor in Management & Technology students in Heilbronn please click here."
+            },
+            {
+                "link": "https://www.mgt.tum.de/programs/bachelor-in-sustainable-management-technology/for-current-students#c542",
+                "text": "Bachelor in Sustainable Management & Technology students in Straubing please click here."
+            },
+            {
+                "link": "https://www.mgt.tum.de/programs/master-in-management-technology/for-current-students#c765",
+                "text": "Master in Management & Technology students please click here."
+            }
+        ]
+    },
+    {
+        "title": "Questions concerning the doctoral program",
+        "cases": [
+            {
+                "link": "https://www.mgt.tum.de/faculty-research/doctoral-program#c1444",
+                "text": "Please click here."
+            }
+        ]
+    }
+]
