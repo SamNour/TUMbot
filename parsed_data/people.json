@@ -1,0 +1,826 @@
+{
+ "Bachelor in Management & Technology (BMT) in Munich": {
+  "Program Management": [
+   {
+    "name": "N.N.",
+    "room": "3550",
+    "program": "Undergraduate Program",
+    "fax": "",
+    "description": "Program Coordinator",
+    "overline": "",
+    "area": "Study Program",
+    "phone": "+ 49 (89) 289 25848",
+    "mail": "studentcounseling_bachelor@mgt.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=197&roomid=3550@0505"
+    ],
+    "copy": "<p>For a personal consultation please contact us via email with your specific inquiry.</p>"
+   },
+   {
+    "name": "Michaela Krieger",
+    "room": "3550",
+    "program": "Graduate Program",
+    "fax": "",
+    "description": "Program Manager",
+    "overline": "Consultation hours",
+    "area": "Study Program",
+    "phone": "+ 49 (89) 289 25071",
+    "mail": "studentcounseling_bachelor@mgt.tum.de",
+    "targetGroup": "Current Student",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=197&roomid=3550@0505"
+    ],
+    "copy": "<p>Tue: 2 pm - 4 pm (phone)</p>\n<p>Thu: 9:30 am - 12:00 noon (student hub: room 3550)</p>\n<p><br> <strong>Out of office (no consultation hours):</strong></p>\n<p>December 1 - December 18, 2023<br> December 25, 2023 - January 2, 2024<br> <br> <strong><em>Please note: On December 05, 2023 and De</em><em>cember 11, 2023, the Student Hub will be closed due to internal events. Thank you for your understanding.</em></strong></p>"
+   }
+  ],
+  "Grade Management": [
+   {
+    "name": "Janine Rothenburger",
+    "room": "3550",
+    "program": "Undergraduate Program",
+    "fax": "+49 (89) 289 25070",
+    "description": "Grade Management - Surname starting with A, B",
+    "overline": "Consultation hours",
+    "area": "Study Program",
+    "phone": "+49 (89) 289 25033",
+    "mail": "grademanagement@mgt.tum.de",
+    "targetGroup": "Current Student",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=197&roomid=3550@0505"
+    ],
+    "copy": "<p>Please call us via phone or send us an email with your inquiry.</p>"
+   },
+   {
+    "name": "Michaela Gerhardt",
+    "room": "3550",
+    "program": "Undergraduate Program",
+    "fax": "+49 (89) 289 25070",
+    "description": "Grade Management - Surname starting with K, L, M, N, O, P",
+    "overline": "Consultation hours",
+    "area": "Study Program",
+    "phone": "+49 (89) 289 25086",
+    "mail": "grademanagement@mgt.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=197&roomid=3550@0505"
+    ],
+    "copy": "<p>&nbsp;</p>\n<p><strong>Out of Office: </strong></p>\n<p><strong>November 27<sup>th</sup>, 2023 - December 08<sup>th</sup>, 2023</strong></p>\n<p>&nbsp;</p>\n<p>Please call me (Mon-Thu 9:00 am - 17:00 pm) or send us an email with your inquiry.</p>\n<p>&nbsp;</p>"
+   },
+   {
+    "name": "Shan Huang",
+    "room": "3550",
+    "program": "Undergraduate Program",
+    "fax": "+49 (89) 289 25070",
+    "description": "Grade Management - Surname starting with Q, R, S, T, U, V, W, X, Y, Z and -",
+    "overline": "Consultation hours",
+    "area": "Study Program",
+    "phone": "+49 (89) 289 23884",
+    "mail": "grademanagement@mgt.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=197&roomid=3550@0505"
+    ],
+    "copy": "<p>&nbsp;</p>\n<p><strong>Out of Office: </strong></p>\n<p><strong>December 02<sup>nd</sup>, 2023 - January 7<sup>th</sup>, 2024</strong></p>\n<p>&nbsp;</p>\n<p>Please call us via phone or send us an email with your inquiry.</p>"
+   }
+  ],
+  "Examination Planning": [
+   {
+    "name": "Beate Pommer",
+    "room": "3550",
+    "program": "Undergraduate Program",
+    "fax": "+49 (89) 289 25070",
+    "description": "Examination Planning",
+    "overline": "Office hours",
+    "area": "Study Program",
+    "phone": "+49 (89) 289 25084",
+    "mail": "beate.pommer@tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/displayRoomMap?roomid=3550@0505&disable_decoration=yes"
+    ],
+    "copy": "<p>by appointment</p>"
+   }
+  ]
+ },
+ "Bachelor in Management & Technology (BMT) in Heilbronn": {
+  "Program Management": [
+   {
+    "name": "Anke Dautel",
+    "room": "Bildungscampus 2, D205, 74076",
+    "program": "Undergraduate Program",
+    "fax": "",
+    "description": "Program Coordinator",
+    "overline": "Student Visiting Hours",
+    "area": "Study Program",
+    "phone": "+49 (7131) 264 18612",
+    "mail": "studentcounseling_heilbronn@mgt.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Heilbronn",
+    "roomLink": [],
+    "copy": "<p>By phone/zoom: Monday: 8.15 a.m. - 9.15 a.m. and Thursday: 9 a.m. - 11 a.m.</p>\n<p>Link:&nbsp;<a href=\"https://tum-conf.zoom.us/j/8487232404?pwd=U0pYWEk5dkM0M1VKMHRZRUF0Yzg0dz09\">https://tum-conf.zoom.us/j/8487232404</a></p>\n<p>Passcode: 330660</p>\n<p><strong>I am out of the office from 22 November 2023 until 07 January 2024. During this time, please get in touch with my colleagues at studentcounseling_heilbronn@mgt.tum.de</strong></p>"
+   },
+   {
+    "name": "Martin Semjank",
+    "room": "D.2.05",
+    "program": "Undergraduate Program",
+    "fax": "",
+    "description": "Program Manager",
+    "overline": "Student Visiting Hours",
+    "area": "Study Program",
+    "phone": "+49 (7131) 264 18607",
+    "mail": "studentcounseling_heilbronn@mgt.tum.de",
+    "targetGroup": "Current Student",
+    "location": "TUM Campus Heilbronn",
+    "roomLink": [],
+    "copy": "<p><strong>By phone/zoom:</strong></p>\n<p>Monday<strong> (no office hours on 6 November)</strong>: 12.30 pm - 2.30 pm</p>\n<p><strong>In person (L.1.30)/zoom:</strong></p>\n<p>Thursday: 11.45 am - 1.45 pm</p>\n<p>Link:&nbsp;<a href=\"https://tum-conf.zoom.us/j/63420455416\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://tum-conf.zoom.us/j/63420455416&amp;source=gmail&amp;ust=1682675185185000&amp;usg=AOvVaw1H96WpyDQPjVE9T2l4mYZp\" rel=\"noreferrer\">https://tum-conf.zoom.us/j/63420455416</a></p>\n<p>Passcode: 151992</p>\n<p>&nbsp;</p>"
+   }
+  ],
+  "Grade Management": [
+   {
+    "name": "Annette Rank von Bronk",
+    "room": "D.4.18",
+    "program": "Undergraduate Program",
+    "fax": "",
+    "description": "Grade Management",
+    "overline": "Phone consultation hours",
+    "area": "Study Program",
+    "phone": "+49 (7131) 264 18603",
+    "mail": "studentcounseling_heilbronn@mgt.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Heilbronn",
+    "roomLink": [],
+    "copy": "<p>Please call us via phone (Mon - Fri 8:30 am - 12:30 pm) or send us an eMail with your inquiry.</p>"
+   },
+   {
+    "name": "Ulrike Zerrahn",
+    "room": "D.4.18",
+    "program": "Undergraduate Program",
+    "fax": "",
+    "description": "Grade Management",
+    "overline": "Phone consultation hours",
+    "area": "Study Program",
+    "phone": "+49 (7131) 264 18704",
+    "mail": "studentcouseling_heilbronn@mgt.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Heilbronn",
+    "roomLink": [],
+    "copy": "<p>Please call us via phone (Mon - Fri 8:30 am - 12:30 pm) or send us an email with your inquiry.</p>"
+   }
+  ]
+ },
+ "Sustainable Management & Technology (BSMT) in Straubing": {
+  "Program Management": [
+   {
+    "name": "Andreas Niedermeier",
+    "room": "01021",
+    "program": "Undergraduate Program",
+    "fax": "",
+    "description": "Program Manager",
+    "overline": "Office hours (via phone only)",
+    "area": "Study Program",
+    "phone": "+49 9421 187 151",
+    "mail": "bsmt@cs.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Straubing",
+    "roomLink": [],
+    "copy": "<ul> \t<li data-gc-list-depth=\"1\" data-gc-list-style=\"bullet\">Monday - Friday 8 am - 4 pm</li> \t<li data-gc-list-depth=\"1\" data-gc-list-style=\"bullet\">Due to the current situation, the office is closed. Please send an email with your inquiry.</li> \t<li data-gc-list-depth=\"1\" data-gc-list-style=\"bullet\"><strong>Consultation via Zoom:&nbsp;</strong>(no appointment needed)&nbsp;Thursday 9 am - 10 am&nbsp;</li> </ul><p>&nbsp;</p>"
+   }
+  ]
+ },
+ "Master in Management & Technology (MMT) in Munich": {
+  "Program Management": [
+   {
+    "name": "Katja Leßke",
+    "room": "3550",
+    "program": "Graduate Program",
+    "fax": "",
+    "description": "Program Coordinator",
+    "overline": "Consultation Hours",
+    "area": "Study Program",
+    "phone": "+49 89 289 25317",
+    "mail": "studentcounseling_master@mgt.tum.de",
+    "targetGroup": "Current Student",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=197&roomid=3550@0505"
+    ],
+    "copy": "<p>Wed: 10:00 - 11:00 am (student hub: room 3550 and phone)</p>\n<p>Thu: 10:00 - 11:00 am (student hub: room 3550 and phone)</p>\n<p><strong>No consultation hours: </strong></p>\n<p>Wed, Dec 6, 2023</p>\n<p><em>On December 05, 2023 and De</em><em>cember 11, 2023, the Student Hub will be closed due to internal events. Thank you for your understanding.</em></p>\n<p>&nbsp;</p>"
+   },
+   {
+    "name": "N.N.",
+    "room": "",
+    "program": "Undergraduate Program",
+    "fax": "",
+    "description": "Program Manager",
+    "overline": "",
+    "area": "Study Program",
+    "phone": "+49 (89) 289 28262",
+    "mail": "studentcounseling_master@mgt.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/displayRoomMap?roomid=1545@0505&disable_decoration=yes"
+    ],
+    "copy": "<p>For a personal consultation please contact us via email with your specific inquiry.</p>"
+   }
+  ],
+  "Grade Management": [
+   {
+    "name": "Janine Rothenburger",
+    "room": "3550",
+    "program": "Undergraduate Program",
+    "fax": "+49 (89) 289 25070",
+    "description": "Grade Management - Surname starting with A, B",
+    "overline": "Consultation hours",
+    "area": "Study Program",
+    "phone": "+49 (89) 289 25033",
+    "mail": "grademanagement@mgt.tum.de",
+    "targetGroup": "Current Student",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=197&roomid=3550@0505"
+    ],
+    "copy": "<p>Please call us via phone or send us an email with your inquiry.</p>"
+   },
+   {
+    "name": "Michaela Gerhardt",
+    "room": "3550",
+    "program": "Undergraduate Program",
+    "fax": "+49 (89) 289 25070",
+    "description": "Grade Management - Surname starting with K, L, M, N, O, P",
+    "overline": "Consultation hours",
+    "area": "Study Program",
+    "phone": "+49 (89) 289 25086",
+    "mail": "grademanagement@mgt.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=197&roomid=3550@0505"
+    ],
+    "copy": "<p>&nbsp;</p>\n<p><strong>Out of Office: </strong></p>\n<p><strong>November 27<sup>th</sup>, 2023 - December 08<sup>th</sup>, 2023</strong></p>\n<p>&nbsp;</p>\n<p>Please call me (Mon-Thu 9:00 am - 17:00 pm) or send us an email with your inquiry.</p>\n<p>&nbsp;</p>"
+   },
+   {
+    "name": "Shan Huang",
+    "room": "3550",
+    "program": "Undergraduate Program",
+    "fax": "+49 (89) 289 25070",
+    "description": "Grade Management - Surname starting with Q, R, S, T, U, V, W, X, Y, Z and -",
+    "overline": "Consultation hours",
+    "area": "Study Program",
+    "phone": "+49 (89) 289 23884",
+    "mail": "grademanagement@mgt.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=197&roomid=3550@0505"
+    ],
+    "copy": "<p>&nbsp;</p>\n<p><strong>Out of Office: </strong></p>\n<p><strong>December 02<sup>nd</sup>, 2023 - January 7<sup>th</sup>, 2024</strong></p>\n<p>&nbsp;</p>\n<p>Please call us via phone or send us an email with your inquiry.</p>"
+   }
+  ],
+  "Examination Planning": [
+   {
+    "name": "Beate Pommer",
+    "room": "3550",
+    "program": "Undergraduate Program",
+    "fax": "+49 (89) 289 25070",
+    "description": "Examination Planning",
+    "overline": "Office hours",
+    "area": "Study Program",
+    "phone": "+49 (89) 289 25084",
+    "mail": "beate.pommer@tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/displayRoomMap?roomid=3550@0505&disable_decoration=yes"
+    ],
+    "copy": "<p>by appointment</p>"
+   }
+  ]
+ },
+ "Master in Management (MiM) in Munich": {
+  "Program Management": [
+   {
+    "name": "Katja Leßke",
+    "room": "3550",
+    "program": "Graduate Program",
+    "fax": "",
+    "description": "Program Coordinator",
+    "overline": "Consultation Hours",
+    "area": "Study Program",
+    "phone": "+49 89 289 25317",
+    "mail": "studentcounseling_master@mgt.tum.de",
+    "targetGroup": "Current Student",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=197&roomid=3550@0505"
+    ],
+    "copy": "<p>Wed: 10:00 - 11:00 am (student hub: room 3550 and phone)</p>\n<p>Thu: 10:00 - 11:00 am (student hub: room 3550 and phone)</p>\n<p><strong>No consultation hours: </strong></p>\n<p>Wed, Dec 6, 2023</p>\n<p><em>On December 05, 2023 and De</em><em>cember 11, 2023, the Student Hub will be closed due to internal events. Thank you for your understanding.</em></p>\n<p>&nbsp;</p>"
+   },
+   {
+    "name": "Dr. Amélie Haag",
+    "room": "3550",
+    "program": "Graduate Program",
+    "fax": "",
+    "description": "Program Manager",
+    "overline": "Consultation Hours",
+    "area": "Study Program",
+    "phone": "+49 (89) 289 25164",
+    "mail": "studentcounseling_master@mgt.tum.de",
+    "targetGroup": "Current Student",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=197&roomid=3550@0505"
+    ],
+    "copy": "<p>Mon: 3:00-4:30 pm (phone)<br> Tue: 9:30 am-12:00 noon (student hub: room <a href=\"https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=197&amp;roomid=3550@0505\">3550</a>)<br> Fri: 3:00-4:30 pm (phone)</p>\n<p><strong>Changes:</strong></p>\n<p>Out of office Wednesday, 29 November - Friday, 1 December&nbsp;</p>\n<p>Extra consultation hour (by phone): Wednesday, 6 December 2 p.m. - 4 p.m.&nbsp;</p>\n<p><strong>No consultation hours:&nbsp;&nbsp;</strong></p>\n<p>Friday, 1 December&nbsp;</p>\n<p>Tuesday, 5 December</p>\n<p>Friday, 8 December&nbsp;</p>\n<p>Monday, 11 December&nbsp;</p>\n<p>Friday, 15 December&nbsp;</p>\n<p><em>Please note: On December 05 and December 11, 2023, the Student Hub and the School Office of the TUM School of Management will be closed due to internal training. Thank you for your understanding.</em></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+   }
+  ],
+  "Grade Management": [
+   {
+    "name": "Janine Rothenburger",
+    "room": "3550",
+    "program": "Undergraduate Program",
+    "fax": "+49 (89) 289 25070",
+    "description": "Grade Management - Surname starting with A, B",
+    "overline": "Consultation hours",
+    "area": "Study Program",
+    "phone": "+49 (89) 289 25033",
+    "mail": "grademanagement@mgt.tum.de",
+    "targetGroup": "Current Student",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=197&roomid=3550@0505"
+    ],
+    "copy": "<p>Please call us via phone or send us an email with your inquiry.</p>"
+   },
+   {
+    "name": "Michaela Gerhardt",
+    "room": "3550",
+    "program": "Undergraduate Program",
+    "fax": "+49 (89) 289 25070",
+    "description": "Grade Management - Surname starting with K, L, M, N, O, P",
+    "overline": "Consultation hours",
+    "area": "Study Program",
+    "phone": "+49 (89) 289 25086",
+    "mail": "grademanagement@mgt.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=197&roomid=3550@0505"
+    ],
+    "copy": "<p>&nbsp;</p>\n<p><strong>Out of Office: </strong></p>\n<p><strong>November 27<sup>th</sup>, 2023 - December 08<sup>th</sup>, 2023</strong></p>\n<p>&nbsp;</p>\n<p>Please call me (Mon-Thu 9:00 am - 17:00 pm) or send us an email with your inquiry.</p>\n<p>&nbsp;</p>"
+   },
+   {
+    "name": "Shan Huang",
+    "room": "3550",
+    "program": "Undergraduate Program",
+    "fax": "+49 (89) 289 25070",
+    "description": "Grade Management - Surname starting with Q, R, S, T, U, V, W, X, Y, Z and -",
+    "overline": "Consultation hours",
+    "area": "Study Program",
+    "phone": "+49 (89) 289 23884",
+    "mail": "grademanagement@mgt.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=197&roomid=3550@0505"
+    ],
+    "copy": "<p>&nbsp;</p>\n<p><strong>Out of Office: </strong></p>\n<p><strong>December 02<sup>nd</sup>, 2023 - January 7<sup>th</sup>, 2024</strong></p>\n<p>&nbsp;</p>\n<p>Please call us via phone or send us an email with your inquiry.</p>"
+   }
+  ],
+  "Examination Planning": [
+   {
+    "name": "Beate Pommer",
+    "room": "3550",
+    "program": "Undergraduate Program",
+    "fax": "+49 (89) 289 25070",
+    "description": "Examination Planning",
+    "overline": "Office hours",
+    "area": "Study Program",
+    "phone": "+49 (89) 289 25084",
+    "mail": "beate.pommer@tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/displayRoomMap?roomid=3550@0505&disable_decoration=yes"
+    ],
+    "copy": "<p>by appointment</p>"
+   }
+  ]
+ },
+ "Master in Consumer Science (MCS) in Munich": {
+  "Program Management": [
+   {
+    "name": "Katja Leßke",
+    "room": "3550",
+    "program": "Graduate Program",
+    "fax": "",
+    "description": "Program Coordinator",
+    "overline": "Consultation Hours",
+    "area": "Study Program",
+    "phone": "+49 89 289 25317",
+    "mail": "studentcounseling_master@mgt.tum.de",
+    "targetGroup": "Current Student",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=197&roomid=3550@0505"
+    ],
+    "copy": "<p>Wed: 10:00 - 11:00 am (student hub: room 3550 and phone)</p>\n<p>Thu: 10:00 - 11:00 am (student hub: room 3550 and phone)</p>\n<p><strong>No consultation hours: </strong></p>\n<p>Wed, Dec 6, 2023</p>\n<p><em>On December 05, 2023 and De</em><em>cember 11, 2023, the Student Hub will be closed due to internal events. Thank you for your understanding.</em></p>\n<p>&nbsp;</p>"
+   },
+   {
+    "name": "Alina Paulig",
+    "room": "3550",
+    "program": "Graduate Program",
+    "fax": "",
+    "description": "Program Manager",
+    "overline": "Consultation hours",
+    "area": "Study Program",
+    "phone": "+49 89 289 25078",
+    "mail": "studentcounseling_master@mgt.tum.de",
+    "targetGroup": "Current Student",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=197&roomid=3550@0505"
+    ],
+    "copy": "<p>Tue: 10:00 am - 12:00 pm (phone)</p>\n<p>Wed: 2:00 - 4:00 pm (student hub: room 3550 and phone)</p>\n<p>&nbsp;</p>\n<p><strong>No consultation hours:</strong></p>\n<p>Tue, December 5 &amp; Tue, December 12, 2023</p>\n<p>&nbsp;</p>\n<p><em>On December 05, 2023 and De</em><em>cember 11, 2023, the Student Hub will be closed due to internal events. Thank you for your understanding.</em></p>\n<p>&nbsp;</p>"
+   }
+  ],
+  "Grade Management": [
+   {
+    "name": "Janine Rothenburger",
+    "room": "3550",
+    "program": "Undergraduate Program",
+    "fax": "+49 (89) 289 25070",
+    "description": "Grade Management - Surname starting with A, B",
+    "overline": "Consultation hours",
+    "area": "Study Program",
+    "phone": "+49 (89) 289 25033",
+    "mail": "grademanagement@mgt.tum.de",
+    "targetGroup": "Current Student",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=197&roomid=3550@0505"
+    ],
+    "copy": "<p>Please call us via phone or send us an email with your inquiry.</p>"
+   },
+   {
+    "name": "Michaela Gerhardt",
+    "room": "3550",
+    "program": "Undergraduate Program",
+    "fax": "+49 (89) 289 25070",
+    "description": "Grade Management - Surname starting with K, L, M, N, O, P",
+    "overline": "Consultation hours",
+    "area": "Study Program",
+    "phone": "+49 (89) 289 25086",
+    "mail": "grademanagement@mgt.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=197&roomid=3550@0505"
+    ],
+    "copy": "<p>&nbsp;</p>\n<p><strong>Out of Office: </strong></p>\n<p><strong>November 27<sup>th</sup>, 2023 - December 08<sup>th</sup>, 2023</strong></p>\n<p>&nbsp;</p>\n<p>Please call me (Mon-Thu 9:00 am - 17:00 pm) or send us an email with your inquiry.</p>\n<p>&nbsp;</p>"
+   },
+   {
+    "name": "Shan Huang",
+    "room": "3550",
+    "program": "Undergraduate Program",
+    "fax": "+49 (89) 289 25070",
+    "description": "Grade Management - Surname starting with Q, R, S, T, U, V, W, X, Y, Z and -",
+    "overline": "Consultation hours",
+    "area": "Study Program",
+    "phone": "+49 (89) 289 23884",
+    "mail": "grademanagement@mgt.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=197&roomid=3550@0505"
+    ],
+    "copy": "<p>&nbsp;</p>\n<p><strong>Out of Office: </strong></p>\n<p><strong>December 02<sup>nd</sup>, 2023 - January 7<sup>th</sup>, 2024</strong></p>\n<p>&nbsp;</p>\n<p>Please call us via phone or send us an email with your inquiry.</p>"
+   }
+  ],
+  "Examination Planning": [
+   {
+    "name": "Beate Pommer",
+    "room": "3550",
+    "program": "Undergraduate Program",
+    "fax": "+49 (89) 289 25070",
+    "description": "Examination Planning",
+    "overline": "Office hours",
+    "area": "Study Program",
+    "phone": "+49 (89) 289 25084",
+    "mail": "beate.pommer@tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/displayRoomMap?roomid=3550@0505&disable_decoration=yes"
+    ],
+    "copy": "<p>by appointment</p>"
+   }
+  ]
+ },
+ "Finance and Information Management (FIM) in Munich": {
+  "Program Management": [
+   {
+    "name": "Charlotte Bayer",
+    "room": "1570",
+    "program": "Undergraduate Program",
+    "fax": "",
+    "description": "Program Manager",
+    "overline": "Consultation hours",
+    "area": "Study Program",
+    "phone": "+49 (89) 289 25246",
+    "mail": "fim@mgt.tum.de",
+    "targetGroup": "Applicants",
+    "location": "",
+    "roomLink": [
+     "https://portal.mytum.de/displayRoomMap?roomid=1558@0505&disable_decoration=yes"
+    ],
+    "copy": "<p>Tue: 2:00 - 4:00 pm (phone)<br> Thu: 2:00 - 4:00 pm (Student Hub: Room 3550)</p>\n<p>No consultation hour on Nov. 30, 2023.</p>"
+   }
+  ],
+  "Grade Management": [
+   {
+    "name": "Janine Rothenburger",
+    "room": "3550",
+    "program": "Undergraduate Program",
+    "fax": "+49 (89) 289 25070",
+    "description": "Grade Management - Surname starting with A, B",
+    "overline": "Consultation hours",
+    "area": "Study Program",
+    "phone": "+49 (89) 289 25033",
+    "mail": "grademanagement@mgt.tum.de",
+    "targetGroup": "Current Student",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=197&roomid=3550@0505"
+    ],
+    "copy": "<p>Please call us via phone or send us an email with your inquiry.</p>"
+   },
+   {
+    "name": "Michaela Gerhardt",
+    "room": "3550",
+    "program": "Undergraduate Program",
+    "fax": "+49 (89) 289 25070",
+    "description": "Grade Management - Surname starting with K, L, M, N, O, P",
+    "overline": "Consultation hours",
+    "area": "Study Program",
+    "phone": "+49 (89) 289 25086",
+    "mail": "grademanagement@mgt.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=197&roomid=3550@0505"
+    ],
+    "copy": "<p>&nbsp;</p>\n<p><strong>Out of Office: </strong></p>\n<p><strong>November 27<sup>th</sup>, 2023 - December 08<sup>th</sup>, 2023</strong></p>\n<p>&nbsp;</p>\n<p>Please call me (Mon-Thu 9:00 am - 17:00 pm) or send us an email with your inquiry.</p>\n<p>&nbsp;</p>"
+   },
+   {
+    "name": "Shan Huang",
+    "room": "3550",
+    "program": "Undergraduate Program",
+    "fax": "+49 (89) 289 25070",
+    "description": "Grade Management - Surname starting with Q, R, S, T, U, V, W, X, Y, Z and -",
+    "overline": "Consultation hours",
+    "area": "Study Program",
+    "phone": "+49 (89) 289 23884",
+    "mail": "grademanagement@mgt.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=197&roomid=3550@0505"
+    ],
+    "copy": "<p>&nbsp;</p>\n<p><strong>Out of Office: </strong></p>\n<p><strong>December 02<sup>nd</sup>, 2023 - January 7<sup>th</sup>, 2024</strong></p>\n<p>&nbsp;</p>\n<p>Please call us via phone or send us an email with your inquiry.</p>"
+   }
+  ],
+  "Examination Planning": [
+   {
+    "name": "Beate Pommer",
+    "room": "3550",
+    "program": "Undergraduate Program",
+    "fax": "+49 (89) 289 25070",
+    "description": "Examination Planning",
+    "overline": "Office hours",
+    "area": "Study Program",
+    "phone": "+49 (89) 289 25084",
+    "mail": "beate.pommer@tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Munich",
+    "roomLink": [
+     "https://portal.mytum.de/displayRoomMap?roomid=3550@0505&disable_decoration=yes"
+    ],
+    "copy": "<p>by appointment</p>"
+   }
+  ]
+ },
+ "Master in Management (MiM) in Heilbronn": {
+  "Program Management": [
+   {
+    "name": "Anke Dautel",
+    "room": "Bildungscampus 2, D205, 74076",
+    "program": "Undergraduate Program",
+    "fax": "",
+    "description": "Program Coordinator",
+    "overline": "Student Visiting Hours",
+    "area": "Study Program",
+    "phone": "+49 (7131) 264 18612",
+    "mail": "studentcounseling_heilbronn@mgt.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Heilbronn",
+    "roomLink": [],
+    "copy": "<p>By phone/zoom: Monday: 8.15 a.m. - 9.15 a.m. and Thursday: 9 a.m. - 11 a.m.</p>\n<p>Link:&nbsp;<a href=\"https://tum-conf.zoom.us/j/8487232404?pwd=U0pYWEk5dkM0M1VKMHRZRUF0Yzg0dz09\">https://tum-conf.zoom.us/j/8487232404</a></p>\n<p>Passcode: 330660</p>\n<p><strong>I am out of the office from 22 November 2023 until 07 January 2024. During this time, please get in touch with my colleagues at studentcounseling_heilbronn@mgt.tum.de</strong></p>"
+   },
+   {
+    "name": "Christine Vogt-Bolch",
+    "room": "L.1.30",
+    "program": "Undergraduate Program",
+    "fax": "",
+    "description": "Program Manager",
+    "overline": "Student Visiting Hours",
+    "area": "Study Program",
+    "phone": "+49 (7131) 264 18614",
+    "mail": "studentcounseling_heilbronn@mgt.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Heilbronn",
+    "roomLink": [],
+    "copy": "<p><strong>By phone/zoom:</strong></p>\n<p>&nbsp;</p>\n<p>Monday (no office hours on 6 November): 12.30 pm - 2.30 pm</p>\n<p><strong>In person (L.1.30)/zoom:</strong></p>\n<p>Thursday: 11.45 am - 1.45 pm</p>\n<p>Link:&nbsp;<a href=\"https://tum-conf.zoom.us/j/63420455416\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://tum-conf.zoom.us/j/63420455416&amp;source=gmail&amp;ust=1682675185185000&amp;usg=AOvVaw1H96WpyDQPjVE9T2l4mYZp\" rel=\"noreferrer\">https://tum-conf.zoom.us/j/63420455416</a></p>\n<p>Passcode: 151992</p>\n<p>&nbsp;</p>\n<p><strong>Other appointments are available upon request.</strong></p>"
+   }
+  ],
+  "Grade Management": [
+   {
+    "name": "Annette Rank von Bronk",
+    "room": "D.4.18",
+    "program": "Undergraduate Program",
+    "fax": "",
+    "description": "Grade Management",
+    "overline": "Phone consultation hours",
+    "area": "Study Program",
+    "phone": "+49 (7131) 264 18603",
+    "mail": "studentcounseling_heilbronn@mgt.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Heilbronn",
+    "roomLink": [],
+    "copy": "<p>Please call us via phone (Mon - Fri 8:30 am - 12:30 pm) or send us an eMail with your inquiry.</p>"
+   },
+   {
+    "name": "Ulrike Zerrahn",
+    "room": "D.4.18",
+    "program": "Undergraduate Program",
+    "fax": "",
+    "description": "Grade Management",
+    "overline": "Phone consultation hours",
+    "area": "Study Program",
+    "phone": "+49 (7131) 264 18704",
+    "mail": "studentcouseling_heilbronn@mgt.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Heilbronn",
+    "roomLink": [],
+    "copy": "<p>Please call us via phone (Mon - Fri 8:30 am - 12:30 pm) or send us an email with your inquiry.</p>"
+   }
+  ]
+ },
+ "Master in Sustainable Management & Technology (MSMT) in Straubing": {
+  "Program Management": [
+   {
+    "name": "Andreas Niedermeier",
+    "room": "01021",
+    "program": "Undergraduate Program",
+    "fax": "",
+    "description": "Program Manager",
+    "overline": "Office hours (via phone only)",
+    "area": "Study Program",
+    "phone": "+49 9421 187 151",
+    "mail": "msmt@cs.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Straubing",
+    "roomLink": [],
+    "copy": "<ul> \t<li data-gc-list-depth=\"1\" data-gc-list-style=\"bullet\">Monday - Friday 8 am - 4 pm</li> \t<li data-gc-list-depth=\"1\" data-gc-list-style=\"bullet\">Due to the current situation, the office is closed. Please send an email with your inquiry.</li> \t<li data-gc-list-depth=\"1\" data-gc-list-style=\"bullet\"><strong>Consultation via Zoom:&nbsp;</strong>(no appointment needed)&nbsp;Thursday 9 am - 10 am&nbsp;</li> </ul>"
+   }
+  ]
+ },
+ "Master in Management & Innovation": {
+  "Program Management": [
+   {
+    "name": "Pola Ghatas",
+    "room": "",
+    "program": "Executive MBA",
+    "fax": "",
+    "description": "Program Manager, Master in Management & Innovation",
+    "overline": "",
+    "area": "Study Program",
+    "phone": "+49 7131 26418311",
+    "mail": "mimi@chn.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Heilbronn",
+    "roomLink": [],
+    "copy": ""
+   },
+   {
+    "name": "Sarah Deininger",
+    "room": "",
+    "program": "Executive MBA",
+    "fax": "",
+    "description": "Program Manager, Master in Management & Innovation",
+    "overline": "",
+    "area": "Study Program",
+    "phone": "+49 7131 26418312",
+    "mail": "mimi@chn.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Heilbronn",
+    "roomLink": [],
+    "copy": ""
+   },
+   {
+    "name": "Jennifer Weißenberger",
+    "room": "",
+    "program": "Executive MBA",
+    "fax": "",
+    "description": "Program Manager, Master in Management & Innovation",
+    "overline": "",
+    "area": "Study Program",
+    "phone": "+49 89 289 26767",
+    "mail": "youngprofessionals@lll.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Munich",
+    "roomLink": [],
+    "copy": ""
+   },
+   {
+    "name": "Verena Suhm",
+    "room": "",
+    "program": "Executive MBA",
+    "fax": "",
+    "description": "Program Manager, Master in Management & Innovation",
+    "overline": "",
+    "area": "Study Program",
+    "phone": "+49 89 289 26752",
+    "mail": "youngprofessionals@lll.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Munich",
+    "roomLink": [],
+    "copy": ""
+   }
+  ]
+ },
+ "Executive MBA": {
+  "Program Management": [
+   {
+    "name": "Sandra Kersting",
+    "room": "",
+    "program": "Undergraduate Program",
+    "fax": "",
+    "description": "Program Manager",
+    "overline": "Office hours",
+    "area": "Study Program",
+    "phone": "+49 (89) 289 28473",
+    "mail": "info.emba@lll.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Munich",
+    "roomLink": [],
+    "copy": "<p>by appointment</p>"
+   }
+  ]
+ },
+ "Executive Master of Business Administration in Business & IT": {
+  "Program Management": [
+   {
+    "name": "Nicole Reinhold",
+    "room": "",
+    "program": "Undergraduate Program",
+    "fax": "",
+    "description": "Program Manager",
+    "overline": "Office hours",
+    "area": "Study Program",
+    "phone": "+49 (89) 289 26751",
+    "mail": "info.emba@lll.tum.de",
+    "targetGroup": "Applicants",
+    "location": "TUM Campus Munich",
+    "roomLink": [],
+    "copy": "<p>by appointment</p>"
+   }
+  ]
+ },
+ "Executive Master of Business Administration in Innovation & Business Creation": {
+  "Program Management": [
+   {
+    "name": "Simon Kratzer",
+    "room": "",
+    "program": "Undergraduate Program",
+    "fax": "",
+    "description": "UnternehmerTUM",
+    "overline": "",
+    "area": "Study Program",
+    "phone": "+49 (89) 189 469 1546",
+    "mail": "info.emba@lll.tum.de",
+    "targetGroup": "Applicants",
+    "location": "",
+    "roomLink": [],
+    "copy": ""
+   }
+  ]
+ }
+}
