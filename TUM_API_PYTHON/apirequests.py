@@ -9,7 +9,7 @@ API_REQUEST_MONEY = "studienbeitragsstatus"
 API_REQUEST_IDENTITY = "id"
 API_REQUEST_EXAMS = "noten"
 
-API_TOKEN = "38082AA281635080C59ED8BCFE0B91F1"
+#API_TOKEN = "38082AA281635080C59ED8BCFE0B91F1"#meh forgot to remove so will cancel this put anyways
 
 
 
@@ -80,6 +80,10 @@ def requestLastExamResult(API_TOKEN):
     parsed = r.text[r.text.index("<lv_titel>")+10:r.text.index("</lv_titel>")]+": "+r.text[r.text.index("<uninotenamekurz>")+17:r.text.index("</uninotenamekurz>")]
     return parsed
 
-print(requestMoney(API_TOKEN))
-print(requestName(API_TOKEN))
-print(requestLastExamResult(API_TOKEN))
+#print(requestMoney(API_TOKEN))
+#print(requestName(API_TOKEN))
+#print(requestLastExamResult(API_TOKEN))
+#output:
+#(102, datetime.date(2024, 2, 15), 'Sommersemester 2024')
+#Max Mustermann
+#Analysis 1: 1.0
