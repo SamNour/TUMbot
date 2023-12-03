@@ -3,6 +3,7 @@
 <p align="center">
   <img src="resources for README/botTUM_logo.png">
 </p>
+
 ## Who are we?
 
 We are students from Heilbronn and Munich.
