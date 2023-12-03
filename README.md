@@ -4,6 +4,7 @@
   <img src="resources for README/botTUM_logo.png">
 </p>
 *We have used the logo of Technical Universität München inside of ours*
+
 ## Who are we?
 
 We are students from Heilbronn and Munich.
