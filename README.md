@@ -3,7 +3,7 @@
 <p align="center">
   <img src="resources for README/botTUM_logo.png">
 </p>
-*We have used the logo of Technical Universität München inside of ours*
+*We have used the logo of Technische Universität München inside of ours*
 
 ## Who are we?
 
