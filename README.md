@@ -1,6 +1,6 @@
 # Team BotTUM represents:
 # Creating an LLM chatbot for TUMxMicrosoft Hackathon
-
+![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/SamNour/TUMbot/blob/main/resources%20for%20README/botTUM_logo.png) "BotTUM Logo")
 ## Who are we?
 
 We are students from Heilbronn and Munich.
